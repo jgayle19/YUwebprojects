@@ -1,0 +1,39 @@
+
+.two{
+	text-align: center;
+	color: White;
+	font-family: georgia;
+	font-size: 50px
+	height: 20%;
+}
+ul{
+
+    width: 20px;
+    list-style-type: none;
+   margin:0;
+   padding:0;
+   
+}
+div
+{
+	height:80%;
+	width:20%;
+	border: 2px solid white;
+	background-color: lightblue;
+
+}
+html 
+{
+    height: 100%;
+}
+body{
+	background-color: black;
+	background-image: url(jamelia.JPG);
+	background-position: center top ;
+	min-height:100%;
+}
+
+li a {
+    text-align: center;
+    border-bottom: 1px solid #555;
+}
